@@ -1,5 +1,8 @@
 //updated code with better optimization and time complexity
 
+using System;
+using System.Collections.Generic;
+
 public static void Main(string[] args)
 {
     Console.Clear();
