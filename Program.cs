@@ -1,5 +1,6 @@
 ﻿//integrated functionality
 //for loop,foreach loop ,while loop ,do-while loop ,switch cases.etc.
+//(changes need to do it: 1)dont use true in while loop 2)user should go into main menu insted of break 3)try to add more database in quiz section )
 using System;
 using System.Collections.Generic;
 
